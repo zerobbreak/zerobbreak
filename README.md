@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Unathi Tshuma
 =====================================================================================================================================
 
-Intermediate developer
+Developer
 ----------------------
 
 My first programming language, Java, which I started to learn in high school while still learning other languages, is something I've been doing for three years. My primary language is Java, but I've also found time to learn and become proficient in Python, HTML, CSS, and React, along with a little JavaScript.
