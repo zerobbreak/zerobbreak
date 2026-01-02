@@ -135,9 +135,6 @@ Intelligent tool that evaluates resumes against job descriptions
   ### 💭 Quote of the Day
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
-  ### 👀 Profile Views
-  ![Visitor Count](https://profile-counter.glitch.me/zerobbreak/count.svg)
-  
   **⭐️ From [zerobbreak](https://github.com/zerobbreak)**
 
 </div>
